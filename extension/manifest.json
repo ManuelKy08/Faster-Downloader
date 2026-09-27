@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "IDMLike Capture",
+  "version": "1.0.0",
+  "description": "Alihkan unduhan ke aplikasi IDMLike (aria2) agar cepat, multi-koneksi, dan bisa lanjut tanpa putus.",
+  "permissions": ["downloads", "storage"],
+  "host_permissions": ["http://127.0.0.1:20129/*", "http://localhost:20129/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
