@@ -11,3 +11,6 @@ venv/
 # Konfigurasi lokal
 *.log
 .DS_Store
+
+# Artefak build extension
+extension/dist/
