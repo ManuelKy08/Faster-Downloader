@@ -14,7 +14,7 @@ dan otomatis menangkap download dari browser Chromium.
 
 ## Demo
 
-<video src="https://github.com/ManuelKy08/Faster-Downloader/raw/main/docs/demo.mp4" controls="controls" style="max-width: 730px;"></video>
+![Demo IDMLike](docs/demo.gif)
 
 ## Cara menjalankan
 
